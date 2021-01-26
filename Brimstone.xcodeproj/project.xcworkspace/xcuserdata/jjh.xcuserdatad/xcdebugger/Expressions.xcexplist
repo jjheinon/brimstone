@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__44-[SpreadingFire grow:fromRight:ignoreCheck:]_block_invoke:SpreadingFire.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GameScene sceneInstance].bricksAndObjects">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameLogic onLevelPrepareStart:]:GameLogic.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GameScene sceneInstance].physicsWorld.speed">
+            </PersistentString>
+            <PersistentString
+               value = "self.playerDied">
+            </PersistentString>
+            <PersistentString
+               value = "n.position">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuLogic mainMenu]:MenuLogic.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GameScene sceneInstance].scene.size">
+            </PersistentString>
+            <PersistentString
+               value = "fire.particleScale">
+            </PersistentString>
+            <PersistentString
+               value = "[GameScene sceneInstance].scene.scaleMode">
+            </PersistentString>
+            <PersistentString
+               value = "panel.size">
+            </PersistentString>
+            <PersistentString
+               value = "[GameScene sceneInstance].initialized">
+            </PersistentString>
+            <PersistentString
+               value = "[GameScene sceneInstance].scaleMode">
+            </PersistentString>
+            <PersistentString
+               value = "[GameScene sceneInstance].scene.frame.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuLogic showInAppPurchaseMenu]:MenuLogic.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "bg.size">
+            </PersistentString>
+            <PersistentString
+               value = "bg.position">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameObject onBurn]:GameObject.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GameScene sceneInstance].burningObjects">
+            </PersistentString>
+            <PersistentString
+               value = "self.turnsToAshesAt+(self.smoke.numParticlesToEmit/self.smoke.particleBirthRate)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ObjectFactory createBall:]:ObjectFactory.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "scene.ballFireEmitter">
+            </PersistentString>
+            <PersistentString
+               value = "[[GameScene sceneInstance] screenSize]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__20-[GameScene showAd:]_block_invoke:GameScene.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GameScene menuLogicInstance].gameViewController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__46-[Highscores retrieveLevelHighScoreForPlayer:]_block_invoke:Highscores.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Crate onDestroy]:Crate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.physicalHealth">
+            </PersistentString>
+            <PersistentString
+               value = "self">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameObject onDestroy]:GameObject.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.name">
+            </PersistentString>
+            <PersistentString
+               value = "self.fire.particleBirthRate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[InAppPurchase productsRequest:didReceiveResponse:]:InAppPurchase.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SoundManager fadeOut:]:SoundManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.player.volume">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuLogic showBonusScreen]:MenuLogic.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GameScene sceneInstance].screenSize">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameScene screenSize]:GameScene.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GameScene sceneInstance].scene.size">
+            </PersistentString>
+            <PersistentString
+               value = "[GameScene sceneInstance].scene.size.width/[GameScene sceneInstance].scene.size.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuLogic onMainMenuExit:]:MenuLogic.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GameScene soundManagerInstance]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SpreadingFire setup:scene:initialSize:growSize:parentNode:withX:withY:maxFireWidth:]:SpreadingFire.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.parentNode.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ObjectFactory createLight:falloff:category:ambientColor:lightColor:shadowColor:]:ObjectFactory.m">
+      </ContextState>
+      <ContextState
+         contextName = "__27-[MenuLogic showHighscores]_block_invoke:MenuLogic.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "node.position">
+            </PersistentString>
+            <PersistentString
+               value = "node.zPosition">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[InAppPurchase purchaseApp]:InAppPurchase.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.products">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ObjectFactory createWoodShards:]:ObjectFactory.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "b.position">
+            </PersistentString>
+            <PersistentString
+               value = "b.parent">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Explosions explodeObject:scale:]:Explosions.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "((node.position.y)/[GameScene sceneInstance].scene.size.height/2)">
+            </PersistentString>
+            <PersistentString
+               value = "((node.position.x)/[GameScene sceneInstance].scene.size.width/2)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuLogic handlePanGesture:]:MenuLogic.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.touchedNode">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameLogic death]:GameLogic.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GameScene sceneInstance].ball.position">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameViewController viewDidAppear:]:GameViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GameScene sceneInstance].bannerView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameScene runMoveAction]:GameScene.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.batTargetX">
+            </PersistentString>
+            <PersistentString
+               value = "self.batCurrentlyMovingToX">
+            </PersistentString>
+            <PersistentString
+               value = "self.bat">
+            </PersistentString>
+            <PersistentString
+               value = "self.bat.position.x">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameViewController viewDidLoad]:GameViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "n">
+            </PersistentString>
+            <PersistentString
+               value = "[n texture].name">
+            </PersistentString>
+            <PersistentString
+               value = "self.view.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameObject onCollision:impact:]:GameObject.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "ballCategory">
+            </PersistentString>
+            <PersistentString
+               value = "self.physicsBody.collisionBitMask">
+            </PersistentString>
+            <PersistentString
+               value = "self.canBeDamaged">
+            </PersistentString>
+            <PersistentString
+               value = "self.physicalHealth">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuLogic runExit:]:MenuLogic.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GameScene gameLogicInstance]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameScene didBeginContact:]:GameScene.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "spark.numParticlesToEmit">
+            </PersistentString>
+            <PersistentString
+               value = "c.collisionBitMask">
+            </PersistentString>
+            <PersistentString
+               value = "self.batSprite.position">
+            </PersistentString>
+            <PersistentString
+               value = "bitMaskA">
+            </PersistentString>
+            <PersistentString
+               value = "((Crate*)c.node).physicsBody.collisionBitMask">
+            </PersistentString>
+            <PersistentString
+               value = "c.node">
+            </PersistentString>
+            <PersistentString
+               value = "bitMaskB">
+            </PersistentString>
+            <PersistentString
+               value = "self.spreadDelay">
+            </PersistentString>
+            <PersistentString
+               value = "self.bat">
+            </PersistentString>
+            <PersistentString
+               value = "ball">
+            </PersistentString>
+            <PersistentString
+               value = "contact.contactPoint">
+            </PersistentString>
+            <PersistentString
+               value = "c.node.physicsBody.dynamic">
+            </PersistentString>
+            <PersistentString
+               value = "c.node.name">
+            </PersistentString>
+            <PersistentString
+               value = "bat">
+            </PersistentString>
+            <PersistentString
+               value = "c.contactTestBitMask">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ObjectFactory createBall]:ObjectFactory.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[GameScene showMainScene]:GameScene.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GameScene sceneInstance].scene.size">
+            </PersistentString>
+            <PersistentString
+               value = "[UIScreen mainScreen]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Tree onCreate:withY:scale:spriteNode:]:Tree.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.position">
+            </PersistentString>
+            <PersistentString
+               value = "self.size">
+            </PersistentString>
+            <PersistentString
+               value = "b.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SoundManager setVolume:playerNum:]:SoundManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[player.items count]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameScene mainMenu]:GameScene.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "x-(int)logoArray.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[InAppPurchase paymentQueue:updatedTransactions:]:InAppPurchase.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "trans.error">
+            </PersistentString>
+            <PersistentString
+               value = "trans.transactionState">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuLogic showLogoNode:]:MenuLogic.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[fire parent]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Bat onCollision:impact:pos:]:Bat.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.physicalHealth">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameScene update:]:GameScene.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.bricksAndObjects">
+            </PersistentString>
+            <PersistentString
+               value = "((Ball*)[self.ball objectAtIndex:0]).position">
+            </PersistentString>
+            <PersistentString
+               value = "self.currTime">
+            </PersistentString>
+            <PersistentString
+               value = "[GameScene sceneInstance].gravityDirection">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuLogic showLevelIntroText]:MenuLogic.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "((SKLabelNode*)self.levelIntroDesc.children objectAtIndex:0]).text;">
+            </PersistentString>
+            <PersistentString
+               value = "self.levelIntroText.zPosition">
+            </PersistentString>
+            <PersistentString
+               value = "shaderContainer.size">
+            </PersistentString>
+            <PersistentString
+               value = "[[GameScene sceneInstance].scene children]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Brick onCreate:withY:scale:spriteNode:]:Brick.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "node.size">
+            </PersistentString>
+            <PersistentString
+               value = "self.physicsBody.mass">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuLogic createChain:]:MenuLogic.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "i">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameScene adjustRingPositions:]:GameScene.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "nodeB.position">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuLogic updateScores]:MenuLogic.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[highscoreOwner length]">
+            </PersistentString>
+            <PersistentString
+               value = "score.player.playerID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameLogic onLevelStart:]:GameLogic.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GameScene sceneInstance].physicsWorld">
+            </PersistentString>
+            <PersistentString
+               value = "BOTTOM_PIT_BOTTOM_Y+BALL_REBIRTH_SAFE_DISTANCE">
+            </PersistentString>
+            <PersistentString
+               value = "[GameScene sceneInstance].ball.position">
+            </PersistentString>
+            <PersistentString
+               value = "ball.physicsBody.velocity">
+            </PersistentString>
+            <PersistentString
+               value = "[GameScene sceneInstance].ball">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Beacon onCreate:withY:scale:]:Beacon.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameScene didMoveToView:]:GameScene.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "LOW_PERFORMANCE_MODE">
+            </PersistentString>
+            <PersistentString
+               value = "[GameScene menuLogicInstance]">
+            </PersistentString>
+            <PersistentString
+               value = "self.batFires">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuLogic textToSprite:fontSize:paragraphSize:]:MenuLogic.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "paragraph.position">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__21-[MenuLogic mainMenu]_block_invoke:MenuLogic.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "fire.particleSpeed">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Tree onCreate:withY:scale:]:Tree.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.size">
+            </PersistentString>
+            <PersistentString
+               value = "self.size.width/2">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SpreadingFire grow:fromRight:]:SpreadingFire.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.parentNode.size.width">
+            </PersistentString>
+            <PersistentString
+               value = "self.fireEmitter.particleBirthRate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Shaders setup]:Shaders.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GameScene sceneInstance].scene.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SpreadingFire grow:fromRight:ignoreCheck:]:SpreadingFire.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.fireEmitter">
+            </PersistentString>
+            <PersistentString
+               value = "p">
+            </PersistentString>
+            <PersistentString
+               value = "self.parentNode.zPosition">
+            </PersistentString>
+            <PersistentString
+               value = "self.physicsBody.mass*5">
+            </PersistentString>
+            <PersistentString
+               value = "self.spreadDelay">
+            </PersistentString>
+            <PersistentString
+               value = "self.age">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__35-[Highscores authenticateLocalUser]_block_invoke:Highscores.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuLogic splashImageName]:MenuLogic.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ObjectFactory createWall:]:ObjectFactory.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "b.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[OilBarrel onBurn]:OilBarrel.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GameScene sceneInstance].beaconCount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Bat burnAt:]:Bat.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[GameScene initLevel:]:GameScene.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "scene.size">
+            </PersistentString>
+            <PersistentString
+               value = "[scene children]">
+            </PersistentString>
+            <PersistentString
+               value = "[[GameScene sceneInstance] screenSize]">
+            </PersistentString>
+            <PersistentString
+               value = "[scene size]">
+            </PersistentString>
+            <PersistentString
+               value = "self.physicsBody">
+            </PersistentString>
+            <PersistentString
+               value = "[[GameScene sceneInstance] burningObjects]">
+            </PersistentString>
+            <PersistentString
+               value = "BOTTOM_PIT_DEPTH">
+            </PersistentString>
+            <PersistentString
+               value = "scene.ballFireEmitter">
+            </PersistentString>
+            <PersistentString
+               value = "[GameScene sceneInstance].scene.frame.size.height">
+            </PersistentString>
+            <PersistentString
+               value = "[n name]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameScene touchesBegan:withEvent:]:GameScene.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "location">
+            </PersistentString>
+            <PersistentString
+               value = "touchedNode.name">
+            </PersistentString>
+            <PersistentString
+               value = "b.size">
+            </PersistentString>
+            <PersistentString
+               value = "b.position">
+            </PersistentString>
+            <PersistentString
+               value = "retryButton.position">
+            </PersistentString>
+            <PersistentString
+               value = "self.oldNodeLocation">
+            </PersistentString>
+            <PersistentString
+               value = "[GameScene gameLogicInstance]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameLogic updateStatusBar]:GameLogic.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.statusBar.position">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__23-[GameLogic retryLevel]_block_invoke:GameLogic.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Tree onDestroy]:Tree.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.fire.particleBirthRate">
+            </PersistentString>
+            <PersistentString
+               value = "treetop.fire">
+            </PersistentString>
+            <PersistentString
+               value = "(GameObject*)[self childNodeWithName:@&quot;treetop&quot;];&#10;">
+            </PersistentString>
+            <PersistentString
+               value = "self.smoke.parent">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameViewController createAdBannerView]:GameViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view.frame">
+            </PersistentString>
+            <PersistentString
+               value = "[GameScene sceneInstance].bannerView.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SoundManager loadSound:]:SoundManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GameScene sceneInstance].frame.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameScene startDeviceMotionUpdates]:GameScene.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.motionManager">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SoundManager play:playerNum:]:SoundManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "player.items">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BonusFeatures activateBonus:]:BonusFeatures.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "view">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SoundManager addToPlaylist:ofType:playerNum:]:SoundManager.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SoundManager clearPlaylist:]:SoundManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.players">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__28-[MenuLogic onMainMenuExit:]_block_invoke:MenuLogic.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GameScene gameLogicInstance]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[GameScene getAvgPixelColorFromImage:atX:andY:]:GameScene.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "pixelData[1000]">
+            </PersistentString>
+            <PersistentString
+               value = "pixelData[100]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuLogic showHighscores]:MenuLogic.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Tree canIgnite]:Tree.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.flammability">
+            </PersistentString>
+            <PersistentString
+               value = "self.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Bonus onCreate:withY:scale:spriteNode:]:Bonus.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.size.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuLogic scaleOutMenuAndExec:]:MenuLogic.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[GameLogic resumeGame]:GameLogic.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GameScene sceneInstance].physicsWorld.speed">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__28-[GameLogic onLevelStarted:]_block_invoke:GameLogic.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.theScreenshotImage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[InAppPurchase instance]:InAppPurchase.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuLogic updateProductInfo:]:MenuLogic.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "product.productIdentifier">
+            </PersistentString>
+            <PersistentString
+               value = "product.localizedDescription">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[GameScene unarchiveFromFile:]:GameScene.m">
+      </ContextState>
+      <ContextState
+         contextName = "main:main.m">
+      </ContextState>
+      <ContextState
+         contextName = "__32-[MenuLogic showSelectLevelMenu]_block_invoke_2:MenuLogic.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "texture.isLoaded">
+            </PersistentString>
+            <PersistentString
+               value = "[texture isLoaded]">
+            </PersistentString>
+            <PersistentString
+               value = "texture.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Highscores retrieveLevelHighScoreForPlayer:]:Highscores.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Explosions setup]:Explosions.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "shaderContainer.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameScene showLogoNode:]:GameScene.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Highscores authenticateLocalUser]:Highscores.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[localPlayer displayName]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__37-[GameScene startDeviceMotionUpdates]_block_invoke:GameScene.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GameScene sceneInstance].orientation">
+            </PersistentString>
+            <PersistentString
+               value = "self.tmpParent.position">
+            </PersistentString>
+            <PersistentString
+               value = "motion.gravity">
+            </PersistentString>
+            <PersistentString
+               value = "self.gravityDirection">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[GameScene soundManagerInstance]:GameScene.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[WallBrick onCreate:withY:scale:spriteNode:]:WallBrick.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.physicsBody.mass">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameObject onCreate:withY:scale:spriteNode:]:GameObject.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.fire.particleColor">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__34-[ObjectFactory createWoodShards:]_block_invoke:ObjectFactory.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Ball ignite]:Ball.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.fireEmitter.particleColor">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Tree onBurn]:Tree.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.currentFireDamage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

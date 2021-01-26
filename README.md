@@ -1,7 +1,5 @@
 # Brimstone
 
-![Logo](appstore_icon.png)
-
 Brimstone iOS game. 
 
 ![Screenshot](startup_screenshot.png)

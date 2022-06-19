@@ -578,8 +578,6 @@ CGFloat vectorToAngle(CGVector vec) {
                                    userInfo:nil
                                     repeats:NO];
     
-    [[GameScene menuLogicInstance].gameViewController removeAdBannerView];
-    
     SKAction *w = [SKAction waitForDuration:1.0];
     SKAction *run1 = [SKAction runBlock:^{
         [[GameScene soundManagerInstance] stopAll];
@@ -671,8 +669,6 @@ CGFloat vectorToAngle(CGVector vec) {
     
     [[GameScene soundManagerInstance] clearPlaylist:BEACON_POWER_UP];
     
-    [[GameScene menuLogicInstance].gameViewController removeAdBannerView];
-
     [self resumeGame];
 
 }

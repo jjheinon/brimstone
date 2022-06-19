@@ -609,8 +609,8 @@
             timestampString = "455192802.502031"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "915"
-            endingLineNumber = "915"
+            startingLineNumber = "911"
+            endingLineNumber = "911"
             landmarkName = "-showLevelIntroText"
             landmarkType = "7">
          </BreakpointContent>
@@ -626,8 +626,8 @@
             timestampString = "454237394.205639"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "603"
-            endingLineNumber = "603"
+            startingLineNumber = "601"
+            endingLineNumber = "601"
             landmarkName = "-nextLevel"
             landmarkType = "7">
          </BreakpointContent>
@@ -1051,10 +1051,10 @@
             timestampString = "455192802.502031"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1853"
-            endingLineNumber = "1853"
-            landmarkName = "-updateProductInfo:"
-            landmarkType = "7">
+            startingLineNumber = "1847"
+            endingLineNumber = "1847"
+            landmarkName = "MenuLogic"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1068,8 +1068,8 @@
             timestampString = "455192802.502031"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "2263"
-            endingLineNumber = "2263"
+            startingLineNumber = "2257"
+            endingLineNumber = "2257"
             landmarkName = "-showInAppPurchaseMenu"
             landmarkType = "7">
          </BreakpointContent>
@@ -1085,8 +1085,8 @@
             timestampString = "455192802.502031"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "2330"
-            endingLineNumber = "2330"
+            startingLineNumber = "2324"
+            endingLineNumber = "2324"
             landmarkName = "-showInAppPurchaseMenu"
             landmarkType = "7">
          </BreakpointContent>
@@ -1102,8 +1102,8 @@
             timestampString = "455192802.502031"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "2344"
-            endingLineNumber = "2344"
+            startingLineNumber = "2338"
+            endingLineNumber = "2338"
             landmarkName = "-showInAppPurchaseMenu"
             landmarkType = "7">
          </BreakpointContent>
@@ -1153,8 +1153,8 @@
             timestampString = "455192802.502031"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "898"
-            endingLineNumber = "898"
+            startingLineNumber = "894"
+            endingLineNumber = "894"
             landmarkName = "-showLevelIntroText"
             landmarkType = "7">
          </BreakpointContent>
@@ -1170,8 +1170,8 @@
             timestampString = "455192802.502031"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "897"
-            endingLineNumber = "897"
+            startingLineNumber = "893"
+            endingLineNumber = "893"
             landmarkName = "-showLevelIntroText"
             landmarkType = "7">
          </BreakpointContent>
@@ -1187,128 +1187,9 @@
             timestampString = "454236936.388579"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "604"
-            endingLineNumber = "604"
+            startingLineNumber = "602"
+            endingLineNumber = "602"
             landmarkName = "-onMainMenuExit:"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "CBDDFE2E-3224-4214-949D-D3D24E451340"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Brimstone/GameViewController.m"
-            timestampString = "453732079.518441"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "99"
-            endingLineNumber = "99"
-            landmarkName = "-removeAdBannerView"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "570DB7A6-4D57-4380-B0F1-EAC87A857697"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Brimstone/GameViewController.m"
-            timestampString = "453732079.518441"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "106"
-            endingLineNumber = "106"
-            landmarkName = "-removeAdBannerView"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "1A4ADDC6-FC9E-43DB-8F67-5A736A99B8A4"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Brimstone/GameViewController.m"
-            timestampString = "453732079.518441"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "82"
-            endingLineNumber = "82"
-            landmarkName = "-createAdBannerView"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "8F72EDB0-C868-4CB6-98E5-BAFC1591748D"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Brimstone/GameViewController.m"
-            timestampString = "453732079.518441"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "120"
-            endingLineNumber = "120"
-            landmarkName = "-bannerViewDidLoadAd:"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "D70DF95A-4862-4BCB-B705-E2BEAFBA6FA8"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Brimstone/GameViewController.m"
-            timestampString = "453732079.518441"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "121"
-            endingLineNumber = "121"
-            landmarkName = "-bannerViewDidLoadAd:"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "9A166863-189A-431F-ACE8-44BE860EDD62"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Brimstone/MenuLogic.m"
-            timestampString = "455192802.502031"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1628"
-            endingLineNumber = "1628"
-            landmarkName = "-showBonusScreen"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "26FF1CDA-513B-4CD2-8A45-257E670BB23D"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Brimstone/GameScene.m"
-            timestampString = "455186506.421782"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1496"
-            endingLineNumber = "1496"
-            landmarkName = "-showAd:"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -1366,57 +1247,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "45351259-1F0B-4AFA-891A-A4FC2B22DFD0"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Brimstone/GameViewController.m"
-            timestampString = "453885201.871705"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "83"
-            endingLineNumber = "83"
-            landmarkName = "-createAdBannerView"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "96058451-03D3-4A08-B4AD-6323057A39C6"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Brimstone/GameViewController.m"
-            timestampString = "453885230.049365"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "88"
-            endingLineNumber = "88"
-            landmarkName = "-createAdBannerView"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "75125FAA-67FC-41EC-A8B9-CC3BF94F4917"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Brimstone/GameViewController.m"
-            timestampString = "453885240.266174"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "87"
-            endingLineNumber = "87"
-            landmarkName = "-createAdBannerView"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "59703473-5F0C-4F96-87C5-79C542612165"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -1442,8 +1272,8 @@
             timestampString = "455192802.502031"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "893"
-            endingLineNumber = "893"
+            startingLineNumber = "889"
+            endingLineNumber = "889"
             landmarkName = "-showLevelIntroText"
             landmarkType = "7">
          </BreakpointContent>
@@ -1476,8 +1306,8 @@
             timestampString = "455192802.502031"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "894"
-            endingLineNumber = "894"
+            startingLineNumber = "890"
+            endingLineNumber = "890"
             landmarkName = "-showLevelIntroText"
             landmarkType = "7">
          </BreakpointContent>
@@ -1493,8 +1323,8 @@
             timestampString = "455192802.502031"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "908"
-            endingLineNumber = "908"
+            startingLineNumber = "904"
+            endingLineNumber = "904"
             landmarkName = "-showLevelIntroText"
             landmarkType = "7">
          </BreakpointContent>
@@ -1544,8 +1374,8 @@
             timestampString = "455192802.502031"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "808"
-            endingLineNumber = "808"
+            startingLineNumber = "804"
+            endingLineNumber = "804"
             landmarkName = "-exitHelpScreen"
             landmarkType = "7">
          </BreakpointContent>
@@ -1561,8 +1391,8 @@
             timestampString = "455192802.502031"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "807"
-            endingLineNumber = "807"
+            startingLineNumber = "803"
+            endingLineNumber = "803"
             landmarkName = "-exitHelpScreen"
             landmarkType = "7">
          </BreakpointContent>
@@ -1578,8 +1408,8 @@
             timestampString = "455192802.502031"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1721"
-            endingLineNumber = "1721"
+            startingLineNumber = "1715"
+            endingLineNumber = "1715"
             landmarkName = "-updateScores"
             landmarkType = "7">
          </BreakpointContent>
@@ -1748,8 +1578,8 @@
             timestampString = "456209728.70842"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1855"
-            endingLineNumber = "1855"
+            startingLineNumber = "1849"
+            endingLineNumber = "1849"
             landmarkName = "-updateProductInfo:"
             landmarkType = "7">
          </BreakpointContent>
@@ -1765,8 +1595,8 @@
             timestampString = "456209741.638044"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1856"
-            endingLineNumber = "1856"
+            startingLineNumber = "1850"
+            endingLineNumber = "1850"
             landmarkName = "-updateProductInfo:"
             landmarkType = "7">
          </BreakpointContent>
@@ -1799,8 +1629,8 @@
             timestampString = "456210826.467238"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1857"
-            endingLineNumber = "1857"
+            startingLineNumber = "1851"
+            endingLineNumber = "1851"
             landmarkName = "-updateProductInfo:"
             landmarkType = "7">
          </BreakpointContent>

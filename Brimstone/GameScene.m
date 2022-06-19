@@ -1486,18 +1486,5 @@ static Shaders* shaderInstance;
     return NO;
 }
 
-
--(void)showAd:(float)delay
-{
-    if ([[InAppPurchase instance] isAppPurchased] == YES) {
-        return;
-    }
-    SKAction *showAd = [SKAction runBlock:^{
-        [[GameScene menuLogicInstance].gameViewController createAdBannerView];
-    }];
-    SKAction *w = [SKAction waitForDuration:delay];
-    [[GameScene sceneInstance] runAction:[SKAction sequence:@[w, showAd]]];
-}
-
 @end
 

@@ -278,8 +278,6 @@
     
     self.origRes = panel.size;
     self.initialized = YES; // wrong res at startup, mark that we're using the correct one for next time
-    
-    [[GameScene sceneInstance] showAd:5.0];
 }
 
 // fade out menu texts when switching to highscore view
@@ -600,8 +598,6 @@
 -(void)onMainMenuExit:(NSTimer*)timer
 {
     [self sniffOutFlames];
-    
-    [[GameScene menuLogicInstance].gameViewController removeAdBannerView];
     
     [GameScene gameLogicInstance].mainMenuVisible = NO;
 
@@ -1624,8 +1620,6 @@
 
     SKAction* fade = [SKAction fadeAlphaTo:1.0 duration: 0.5];
     [bg runAction:fade];
-    
-    [[GameScene sceneInstance] showAd:0.1];
 }
 
 -(SKSpriteNode*)createButton:(float)x withY:(float)y target:(SKSpriteNode*)bg label:(NSString*)label color:(UIColor*)color fontSize:(float)fontSize

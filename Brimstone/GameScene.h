@@ -53,8 +53,6 @@
 -(void)showAllSprites;
 
 
--(void)showAd:(float)delay;
-
 @property float orientation;
 @property CMMotionManager* motionManager;
 
@@ -79,8 +77,6 @@
 @property SKSpriteNode* inAppPurchaseBackButton;
 @property SKSpriteNode* restorePurchaseButton;
 @property SKSpriteNode* helpOKButton;
-
-@property ADBannerView* bannerView;
 
 @property Boolean mainMenuClicked;
 

@@ -12,7 +12,6 @@
 #import <SpriteKit/SpriteKit.h>
 
 @interface GameViewController : UIViewController
-<ADBannerViewDelegate>
 
 -(NSUInteger)application:(UIApplication *)application supportedInterfaceOrientationsForWindow:(UIWindow *)window;
 
@@ -20,10 +19,5 @@
 -(NSUInteger)supportedInterfaceOrientations;
 -(UIInterfaceOrientation)preferredInterfaceOrientationForPresentation;
 -(BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation;
-
--(void)createAdBannerView;
--(void)removeAdBannerView;
-
-@property Boolean bannerIsVisible;
 
 @end
